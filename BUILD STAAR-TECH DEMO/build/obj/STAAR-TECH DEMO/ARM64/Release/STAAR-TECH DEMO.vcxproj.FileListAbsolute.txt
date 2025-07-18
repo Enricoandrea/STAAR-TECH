@@ -1,0 +1,24 @@
+C:\Users\Enricoandrea\Desktop\GitHub\AR authoring tool\BUILD STAAR-TECH DEMO\build\bin\ARM64\Release\resources.pri
+C:\Users\Enricoandrea\Desktop\GitHub\AR authoring tool\BUILD STAAR-TECH DEMO\build\bin\ARM64\Release\AppxManifest.xml
+C:\Users\Enricoandrea\Desktop\GitHub\AR authoring tool\BUILD STAAR-TECH DEMO\build\bin\ARM64\Release\STAAR-TECH DEMO.build.appxrecipe
+C:\Users\Enricoandrea\Desktop\GitHub\AR authoring tool\BUILD STAAR-TECH DEMO\build\obj\STAAR-TECH DEMO\ARM64\Release\STAAR-TECH DEMO.vcxproj.AssemblyReference.cache
+C:\Users\Enricoandrea\Desktop\GitHub\AR authoring tool\BUILD STAAR-TECH DEMO\build\obj\STAAR-TECH DEMO\ARM64\Release\STAAR-TECH DEMO.vcxproj.CopyComplete
+C:\Users\Enricoandrea\Desktop\GitHub\AR authoring tool\BUILD STAAR-TECH DEMO\build\obj\STAAR-TECH DEMO\ARM64\Release\ResourceHandlingTask.state
+C:\Users\Enricoandrea\Desktop\GitHub\AR authoring tool\BUILD STAAR-TECH DEMO\build\obj\STAAR-TECH DEMO\ARM64\Release\STAAR-TECH DEMO.vcxproj.GenerateResource.Cache
+C:\Users\Enricoandrea\Desktop\GitHub\AR authoring tool\BUILD STAAR-TECH DEMO\build\obj\STAAR-TECH DEMO\ARM64\Release\priconfig.xml
+C:\Users\Enricoandrea\Desktop\GitHub\AR authoring tool\BUILD STAAR-TECH DEMO\build\obj\STAAR-TECH DEMO\ARM64\Release\priconfig.xml.intermediate
+C:\Users\Enricoandrea\Desktop\GitHub\AR authoring tool\BUILD STAAR-TECH DEMO\build\obj\STAAR-TECH DEMO\ARM64\Release\unfiltered.layout.resfiles
+C:\Users\Enricoandrea\Desktop\GitHub\AR authoring tool\BUILD STAAR-TECH DEMO\build\obj\STAAR-TECH DEMO\ARM64\Release\unfiltered.layout.resfiles.intermediate
+C:\Users\Enricoandrea\Desktop\GitHub\AR authoring tool\BUILD STAAR-TECH DEMO\build\obj\STAAR-TECH DEMO\ARM64\Release\filtered.layout.resfiles
+C:\Users\Enricoandrea\Desktop\GitHub\AR authoring tool\BUILD STAAR-TECH DEMO\build\obj\STAAR-TECH DEMO\ARM64\Release\filtered.layout.resfiles.intermediate
+C:\Users\Enricoandrea\Desktop\GitHub\AR authoring tool\BUILD STAAR-TECH DEMO\build\obj\STAAR-TECH DEMO\ARM64\Release\excluded.layout.resfiles
+C:\Users\Enricoandrea\Desktop\GitHub\AR authoring tool\BUILD STAAR-TECH DEMO\build\obj\STAAR-TECH DEMO\ARM64\Release\excluded.layout.resfiles.intermediate
+C:\Users\Enricoandrea\Desktop\GitHub\AR authoring tool\BUILD STAAR-TECH DEMO\build\obj\STAAR-TECH DEMO\ARM64\Release\resources.resfiles
+C:\Users\Enricoandrea\Desktop\GitHub\AR authoring tool\BUILD STAAR-TECH DEMO\build\obj\STAAR-TECH DEMO\ARM64\Release\resources.resfiles.intermediate
+C:\Users\Enricoandrea\Desktop\GitHub\AR authoring tool\BUILD STAAR-TECH DEMO\build\obj\STAAR-TECH DEMO\ARM64\Release\pri.resfiles
+C:\Users\Enricoandrea\Desktop\GitHub\AR authoring tool\BUILD STAAR-TECH DEMO\build\obj\STAAR-TECH DEMO\ARM64\Release\pri.resfiles.intermediate
+C:\Users\Enricoandrea\Desktop\GitHub\AR authoring tool\BUILD STAAR-TECH DEMO\build\obj\STAAR-TECH DEMO\ARM64\Release\qualifiers.txt
+C:\Users\Enricoandrea\Desktop\GitHub\AR authoring tool\BUILD STAAR-TECH DEMO\build\obj\STAAR-TECH DEMO\ARM64\Release\qualifiers.txt.intermediate
+C:\Users\Enricoandrea\Desktop\GitHub\AR authoring tool\BUILD STAAR-TECH DEMO\build\obj\STAAR-TECH DEMO\ARM64\Release\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Enricoandrea\Desktop\GitHub\AR authoring tool\BUILD STAAR-TECH DEMO\build\obj\STAAR-TECH DEMO\ARM64\Release\ProjectArchitectures.txt
+C:\Users\Enricoandrea\Desktop\GitHub\AR authoring tool\BUILD STAAR-TECH DEMO\build\obj\STAAR-TECH DEMO\ARM64\Release\.winmd_cache\$UnityPlayer.winmd_638036724560000000.json

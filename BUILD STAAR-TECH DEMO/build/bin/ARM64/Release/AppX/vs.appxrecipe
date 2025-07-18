@@ -1,0 +1,338 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>ENRY</Machine>
+    <WindowsUser>Enricoandrea</WindowsUser>
+    <TargetPlatformIdentifier>UAP</TargetPlatformIdentifier>
+    <TargetOsVersion>10.0</TargetOsVersion>
+    <TargetOsDescription>Windows 10.0</TargetOsDescription>
+    <SolutionConfiguration>Release|ARM64</SolutionConfiguration>
+    <PackageArchitecture>arm64</PackageArchitecture>
+    <PackageIdentityName>38c94239-80ad-4c43-bb42-b103599cb198</PackageIdentityName>
+    <PackageIdentityPublisher>CN=DefaultCompany</PackageIdentityPublisher>
+    <IntermediateOutputPath>C:\Users\Enricoandrea\Desktop\GitHub\AR authoring tool\BUILD STAAR-TECH DEMO\build\obj\STAAR-TECH DEMO\ARM64\Release\</IntermediateOutputPath>
+    <RemoteDeploymentType>CopyToDevice</RemoteDeploymentType>
+    <PackageRegistrationPath>
+    </PackageRegistrationPath>
+    <RemoveNonLayoutFiles>false</RemoveNonLayoutFiles>
+    <DeployOptionalPackages>false</DeployOptionalPackages>
+    <WindowsSdkPath>C:\Program Files %28x86%29\Windows Kits\10\</WindowsSdkPath>
+    <LayoutDir>C:\Users\Enricoandrea\Desktop\GitHub\AR authoring tool\BUILD STAAR-TECH DEMO\build\bin\ARM64\Release\AppX</LayoutDir>
+    <RegisteredManifestChecksum>08815C26BE7B8003601202C43F64632765D451355E25CF230D3F079A5A9A8E1F</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>STAAR-TECHDEMO_1.0.0.0_arm64__pzq3xp76mxafg</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>STAAR-TECHDEMO_pzq3xp76mxafg!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>STAAR-TECHDEMO</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=DefaultCompany</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Enricoandrea\Desktop\GitHub\AR authoring tool\BUILD STAAR-TECH DEMO\build\bin\ARM64\Release\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2025-07-18T10:40:48.127</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Enricoandrea\Desktop\GitHub\AR authoring tool\BUILD STAAR-TECH DEMO\build\bin\ARM64\Release\STAAR-TECH DEMO.exe">
+      <PackagePath>STAAR-TECH DEMO.exe</PackagePath>
+      <Modified>2025-07-18T10:40:47.101</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Enricoandrea\Desktop\Unity\2020.3.42f1\Editor\Data\PlaybackEngines\MetroSupport\Players\UAP\il2cpp\ARM64\Release\UnityPlayer.winmd">
+      <PackagePath>UnityPlayer.winmd</PackagePath>
+      <Modified>2022-11-10T10:20:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Enricoandrea\Desktop\Unity\2020.3.42f1\Editor\Data\PlaybackEngines\MetroSupport\Players\UAP\il2cpp\ARM64\Release\UnityPlayer.dll">
+      <PackagePath>UnityPlayer.dll</PackagePath>
+      <Modified>2022-11-10T10:20:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Enricoandrea\Desktop\GitHub\AR authoring tool\BUILD STAAR-TECH DEMO\build\bin\ARM64\Release\STAAR_TECH_DEMO.winmd">
+      <PackagePath>STAAR_TECH_DEMO.winmd</PackagePath>
+      <Modified>2025-07-18T10:40:47.039</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Enricoandrea\Desktop\GitHub\AR authoring tool\BUILD STAAR-TECH DEMO\STAAR-TECH DEMO\Assets\SplashScreen.scale-200.png">
+      <PackagePath>Assets\SplashScreen.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2022-11-10T09:45:12.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Enricoandrea\Desktop\GitHub\AR authoring tool\BUILD STAAR-TECH DEMO\STAAR-TECH DEMO\Assets\Square150x150Logo.scale-200.png">
+      <PackagePath>Assets\Square150x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2022-11-10T09:45:12.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Enricoandrea\Desktop\GitHub\AR authoring tool\BUILD STAAR-TECH DEMO\STAAR-TECH DEMO\Assets\Square44x44Logo.scale-200.png">
+      <PackagePath>Assets\Square44x44Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2022-11-10T09:45:12.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Enricoandrea\Desktop\GitHub\AR authoring tool\BUILD STAAR-TECH DEMO\STAAR-TECH DEMO\Assets\Square44x44Logo.targetsize-24.png">
+      <PackagePath>Assets\Square44x44Logo.targetsize-24.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2022-11-10T09:45:12.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Enricoandrea\Desktop\GitHub\AR authoring tool\BUILD STAAR-TECH DEMO\STAAR-TECH DEMO\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
+      <PackagePath>Assets\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2022-11-10T09:45:12.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Enricoandrea\Desktop\GitHub\AR authoring tool\BUILD STAAR-TECH DEMO\STAAR-TECH DEMO\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2022-11-10T09:45:12.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Enricoandrea\Desktop\GitHub\AR authoring tool\BUILD STAAR-TECH DEMO\STAAR-TECH DEMO\Assets\Wide310x150Logo.scale-200.png">
+      <PackagePath>Assets\Wide310x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2022-11-10T09:45:12.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Enricoandrea\Desktop\GitHub\AR authoring tool\BUILD STAAR-TECH DEMO\STAAR-TECH DEMO\StoreManifest.xml">
+      <PackagePath>StoreManifest.xml</PackagePath>
+      <Modified>2025-07-18T10:25:26.428</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Enricoandrea\Desktop\GitHub\AR authoring tool\BUILD STAAR-TECH DEMO\STAAR-TECH DEMO\Data\il2cpp_data\etc\mono\mconfig\config.xml">
+      <PackagePath>Data\il2cpp_data\etc\mono\mconfig\config.xml</PackagePath>
+      <Modified>2022-11-10T09:44:46.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Enricoandrea\Desktop\GitHub\AR authoring tool\BUILD STAAR-TECH DEMO\STAAR-TECH DEMO\Data\StreamingAssets\Vuforia\AR_Bridge_1.xml">
+      <PackagePath>Data\StreamingAssets\Vuforia\AR_Bridge_1.xml</PackagePath>
+      <Modified>2023-02-09T15:49:04.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Enricoandrea\Desktop\GitHub\AR authoring tool\BUILD STAAR-TECH DEMO\STAAR-TECH DEMO\Data\StreamingAssets\Vuforia\FHWS_test.xml">
+      <PackagePath>Data\StreamingAssets\Vuforia\FHWS_test.xml</PackagePath>
+      <Modified>2024-02-12T10:51:51.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Enricoandrea\Desktop\GitHub\AR authoring tool\BUILD STAAR-TECH DEMO\STAAR-TECH DEMO\Data\StreamingAssets\Vuforia\Tesi.xml">
+      <PackagePath>Data\StreamingAssets\Vuforia\Tesi.xml</PackagePath>
+      <Modified>2024-12-10T13:12:06.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Enricoandrea\Desktop\GitHub\AR authoring tool\BUILD STAAR-TECH DEMO\STAAR-TECH DEMO\Data\boot.config">
+      <PackagePath>Data\boot.config</PackagePath>
+      <Modified>2025-07-18T10:25:23.302</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Enricoandrea\Desktop\GitHub\AR authoring tool\BUILD STAAR-TECH DEMO\STAAR-TECH DEMO\Data\il2cpp_data\etc\mono\2.0\machine.config">
+      <PackagePath>Data\il2cpp_data\etc\mono\2.0\machine.config</PackagePath>
+      <Modified>2022-11-10T09:44:46.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Enricoandrea\Desktop\GitHub\AR authoring tool\BUILD STAAR-TECH DEMO\STAAR-TECH DEMO\Data\il2cpp_data\etc\mono\2.0\web.config">
+      <PackagePath>Data\il2cpp_data\etc\mono\2.0\web.config</PackagePath>
+      <Modified>2022-11-10T09:44:46.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Enricoandrea\Desktop\GitHub\AR authoring tool\BUILD STAAR-TECH DEMO\STAAR-TECH DEMO\Data\il2cpp_data\etc\mono\4.0\machine.config">
+      <PackagePath>Data\il2cpp_data\etc\mono\4.0\machine.config</PackagePath>
+      <Modified>2022-11-10T09:44:46.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Enricoandrea\Desktop\GitHub\AR authoring tool\BUILD STAAR-TECH DEMO\STAAR-TECH DEMO\Data\il2cpp_data\etc\mono\4.0\web.config">
+      <PackagePath>Data\il2cpp_data\etc\mono\4.0\web.config</PackagePath>
+      <Modified>2022-11-10T09:44:46.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Enricoandrea\Desktop\GitHub\AR authoring tool\BUILD STAAR-TECH DEMO\STAAR-TECH DEMO\Data\il2cpp_data\etc\mono\4.5\machine.config">
+      <PackagePath>Data\il2cpp_data\etc\mono\4.5\machine.config</PackagePath>
+      <Modified>2022-11-10T09:44:46.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Enricoandrea\Desktop\GitHub\AR authoring tool\BUILD STAAR-TECH DEMO\STAAR-TECH DEMO\Data\il2cpp_data\etc\mono\4.5\web.config">
+      <PackagePath>Data\il2cpp_data\etc\mono\4.5\web.config</PackagePath>
+      <Modified>2022-11-10T09:44:46.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Enricoandrea\Desktop\GitHub\AR authoring tool\BUILD STAAR-TECH DEMO\STAAR-TECH DEMO\Data\globalgamemanagers">
+      <PackagePath>Data\globalgamemanagers</PackagePath>
+      <Modified>2025-07-18T10:20:03.240</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Enricoandrea\Desktop\GitHub\AR authoring tool\BUILD STAAR-TECH DEMO\STAAR-TECH DEMO\Data\level0">
+      <PackagePath>Data\level0</PackagePath>
+      <Modified>2025-07-18T10:19:59.274</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Enricoandrea\Desktop\GitHub\AR authoring tool\BUILD STAAR-TECH DEMO\STAAR-TECH DEMO\Data\il2cpp_data\etc\mono\config">
+      <PackagePath>Data\il2cpp_data\etc\mono\config</PackagePath>
+      <Modified>2022-11-10T09:46:18.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Enricoandrea\Desktop\GitHub\AR authoring tool\BUILD STAAR-TECH DEMO\STAAR-TECH DEMO\Data\Resources\unity default resources">
+      <PackagePath>Data\Resources\unity default resources</PackagePath>
+      <Modified>2022-11-10T09:45:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Enricoandrea\Desktop\GitHub\AR authoring tool\BUILD STAAR-TECH DEMO\STAAR-TECH DEMO\Data\Resources\unity_builtin_extra">
+      <PackagePath>Data\Resources\unity_builtin_extra</PackagePath>
+      <Modified>2025-07-18T10:25:23.300</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Enricoandrea\Desktop\GitHub\AR authoring tool\BUILD STAAR-TECH DEMO\STAAR-TECH DEMO\Data\globalgamemanagers.assets">
+      <PackagePath>Data\globalgamemanagers.assets</PackagePath>
+      <Modified>2025-07-18T10:20:03.339</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Enricoandrea\Desktop\GitHub\AR authoring tool\BUILD STAAR-TECH DEMO\STAAR-TECH DEMO\Data\resources.assets">
+      <PackagePath>Data\resources.assets</PackagePath>
+      <Modified>2025-07-18T10:20:03.630</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Enricoandrea\Desktop\GitHub\AR authoring tool\BUILD STAAR-TECH DEMO\STAAR-TECH DEMO\Data\sharedassets0.assets">
+      <PackagePath>Data\sharedassets0.assets</PackagePath>
+      <Modified>2025-07-18T10:20:52.274</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Enricoandrea\Desktop\GitHub\AR authoring tool\BUILD STAAR-TECH DEMO\STAAR-TECH DEMO\Data\level0.resS">
+      <PackagePath>Data\level0.resS</PackagePath>
+      <Modified>2025-07-18T10:19:59.266</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Enricoandrea\Desktop\GitHub\AR authoring tool\BUILD STAAR-TECH DEMO\STAAR-TECH DEMO\Data\resources.assets.resS">
+      <PackagePath>Data\resources.assets.resS</PackagePath>
+      <Modified>2025-07-18T10:20:03.630</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Enricoandrea\Desktop\GitHub\AR authoring tool\BUILD STAAR-TECH DEMO\STAAR-TECH DEMO\Data\sharedassets0.assets.resS">
+      <PackagePath>Data\sharedassets0.assets.resS</PackagePath>
+      <Modified>2025-07-18T10:20:52.219</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Enricoandrea\Desktop\GitHub\AR authoring tool\BUILD STAAR-TECH DEMO\STAAR-TECH DEMO\Data\nativePlugins.txt">
+      <PackagePath>Data\nativePlugins.txt</PackagePath>
+      <Modified>2025-07-18T10:26:15.031</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Enricoandrea\Desktop\GitHub\AR authoring tool\BUILD STAAR-TECH DEMO\STAAR-TECH DEMO\Data\RuntimeInitializeOnLoads.json">
+      <PackagePath>Data\RuntimeInitializeOnLoads.json</PackagePath>
+      <Modified>2025-07-18T10:19:56.857</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Enricoandrea\Desktop\GitHub\AR authoring tool\BUILD STAAR-TECH DEMO\STAAR-TECH DEMO\Data\ScriptingAssemblies.json">
+      <PackagePath>Data\ScriptingAssemblies.json</PackagePath>
+      <Modified>2025-07-18T10:20:03.072</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Enricoandrea\Desktop\GitHub\AR authoring tool\BUILD STAAR-TECH DEMO\STAAR-TECH DEMO\Data\UnitySubsystems\MicrosoftOpenXRPlugin\UnitySubsystemsManifest.json">
+      <PackagePath>Data\UnitySubsystems\MicrosoftOpenXRPlugin\UnitySubsystemsManifest.json</PackagePath>
+      <Modified>2023-03-11T16:19:18.633</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Enricoandrea\Desktop\GitHub\AR authoring tool\BUILD STAAR-TECH DEMO\STAAR-TECH DEMO\Data\UnitySubsystems\UnityOpenXR\UnitySubsystemsManifest.json">
+      <PackagePath>Data\UnitySubsystems\UnityOpenXR\UnitySubsystemsManifest.json</PackagePath>
+      <Modified>2023-03-07T12:14:00.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Enricoandrea\Desktop\GitHub\AR authoring tool\BUILD STAAR-TECH DEMO\STAAR-TECH DEMO\Data\sharedassets0.resource">
+      <PackagePath>Data\sharedassets0.resource</PackagePath>
+      <Modified>2025-07-18T10:20:52.111</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Enricoandrea\Desktop\GitHub\AR authoring tool\BUILD STAAR-TECH DEMO\STAAR-TECH DEMO\Data\il2cpp_data\etc\mono\browscap.ini">
+      <PackagePath>Data\il2cpp_data\etc\mono\browscap.ini</PackagePath>
+      <Modified>2022-11-10T09:46:18.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Enricoandrea\Desktop\GitHub\AR authoring tool\BUILD STAAR-TECH DEMO\STAAR-TECH DEMO\Data\il2cpp_data\etc\mono\2.0\DefaultWsdlHelpGenerator.aspx">
+      <PackagePath>Data\il2cpp_data\etc\mono\2.0\DefaultWsdlHelpGenerator.aspx</PackagePath>
+      <Modified>2022-11-10T09:44:46.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Enricoandrea\Desktop\GitHub\AR authoring tool\BUILD STAAR-TECH DEMO\STAAR-TECH DEMO\Data\il2cpp_data\etc\mono\4.0\DefaultWsdlHelpGenerator.aspx">
+      <PackagePath>Data\il2cpp_data\etc\mono\4.0\DefaultWsdlHelpGenerator.aspx</PackagePath>
+      <Modified>2022-11-10T09:44:46.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Enricoandrea\Desktop\GitHub\AR authoring tool\BUILD STAAR-TECH DEMO\STAAR-TECH DEMO\Data\il2cpp_data\etc\mono\4.5\DefaultWsdlHelpGenerator.aspx">
+      <PackagePath>Data\il2cpp_data\etc\mono\4.5\DefaultWsdlHelpGenerator.aspx</PackagePath>
+      <Modified>2022-11-10T09:44:46.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Enricoandrea\Desktop\GitHub\AR authoring tool\BUILD STAAR-TECH DEMO\STAAR-TECH DEMO\Data\il2cpp_data\etc\mono\2.0\settings.map">
+      <PackagePath>Data\il2cpp_data\etc\mono\2.0\settings.map</PackagePath>
+      <Modified>2022-11-10T09:44:46.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Enricoandrea\Desktop\GitHub\AR authoring tool\BUILD STAAR-TECH DEMO\STAAR-TECH DEMO\Data\il2cpp_data\etc\mono\4.0\settings.map">
+      <PackagePath>Data\il2cpp_data\etc\mono\4.0\settings.map</PackagePath>
+      <Modified>2022-11-10T09:44:46.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Enricoandrea\Desktop\GitHub\AR authoring tool\BUILD STAAR-TECH DEMO\STAAR-TECH DEMO\Data\il2cpp_data\etc\mono\4.5\settings.map">
+      <PackagePath>Data\il2cpp_data\etc\mono\4.5\settings.map</PackagePath>
+      <Modified>2022-11-10T09:44:46.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Enricoandrea\Desktop\GitHub\AR authoring tool\BUILD STAAR-TECH DEMO\STAAR-TECH DEMO\Data\il2cpp_data\etc\mono\2.0\Browsers\Compat.browser">
+      <PackagePath>Data\il2cpp_data\etc\mono\2.0\Browsers\Compat.browser</PackagePath>
+      <Modified>2022-11-10T09:44:46.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Enricoandrea\Desktop\GitHub\AR authoring tool\BUILD STAAR-TECH DEMO\STAAR-TECH DEMO\Data\il2cpp_data\etc\mono\4.0\Browsers\Compat.browser">
+      <PackagePath>Data\il2cpp_data\etc\mono\4.0\Browsers\Compat.browser</PackagePath>
+      <Modified>2022-11-10T09:44:46.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Enricoandrea\Desktop\GitHub\AR authoring tool\BUILD STAAR-TECH DEMO\STAAR-TECH DEMO\Data\il2cpp_data\etc\mono\4.5\Browsers\Compat.browser">
+      <PackagePath>Data\il2cpp_data\etc\mono\4.5\Browsers\Compat.browser</PackagePath>
+      <Modified>2022-11-10T09:44:46.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Enricoandrea\Desktop\GitHub\AR authoring tool\BUILD STAAR-TECH DEMO\STAAR-TECH DEMO\Data\il2cpp_data\Metadata\global-metadata.dat">
+      <PackagePath>Data\il2cpp_data\Metadata\global-metadata.dat</PackagePath>
+      <Modified>2025-07-18T10:26:12.092</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Enricoandrea\Desktop\GitHub\AR authoring tool\BUILD STAAR-TECH DEMO\STAAR-TECH DEMO\Data\il2cpp_data\Resources\I18N.CJK.dll-resources.dat">
+      <PackagePath>Data\il2cpp_data\Resources\I18N.CJK.dll-resources.dat</PackagePath>
+      <Modified>2025-07-18T10:25:51.072</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Enricoandrea\Desktop\GitHub\AR authoring tool\BUILD STAAR-TECH DEMO\STAAR-TECH DEMO\Data\il2cpp_data\Resources\mscorlib.dll-resources.dat">
+      <PackagePath>Data\il2cpp_data\Resources\mscorlib.dll-resources.dat</PackagePath>
+      <Modified>2025-07-18T10:25:51.070</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Enricoandrea\Desktop\GitHub\AR authoring tool\BUILD STAAR-TECH DEMO\STAAR-TECH DEMO\Data\StreamingAssets\Vuforia\AR_Bridge_1.dat">
+      <PackagePath>Data\StreamingAssets\Vuforia\AR_Bridge_1.dat</PackagePath>
+      <Modified>2023-02-09T15:49:04.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Enricoandrea\Desktop\GitHub\AR authoring tool\BUILD STAAR-TECH DEMO\STAAR-TECH DEMO\Data\StreamingAssets\Vuforia\FHWS_test.dat">
+      <PackagePath>Data\StreamingAssets\Vuforia\FHWS_test.dat</PackagePath>
+      <Modified>2024-02-12T10:51:51.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Enricoandrea\Desktop\GitHub\AR authoring tool\BUILD STAAR-TECH DEMO\STAAR-TECH DEMO\Data\StreamingAssets\Vuforia\Tesi.dat">
+      <PackagePath>Data\StreamingAssets\Vuforia\Tesi.dat</PackagePath>
+      <Modified>2024-12-10T13:12:06.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Enricoandrea\Desktop\GitHub\AR authoring tool\BUILD STAAR-TECH DEMO\STAAR-TECH DEMO\UnityOpenXR.dll">
+      <PackagePath>UnityOpenXR.dll</PackagePath>
+      <Modified>2023-03-07T12:14:00.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Enricoandrea\Desktop\GitHub\AR authoring tool\BUILD STAAR-TECH DEMO\STAAR-TECH DEMO\VuforiaEngine.dll">
+      <PackagePath>VuforiaEngine.dll</PackagePath>
+      <Modified>2022-06-24T00:07:47.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Enricoandrea\Desktop\GitHub\AR authoring tool\BUILD STAAR-TECH DEMO\STAAR-TECH DEMO\openxr_loader.dll">
+      <PackagePath>openxr_loader.dll</PackagePath>
+      <Modified>2023-03-07T12:14:00.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Enricoandrea\Desktop\GitHub\AR authoring tool\BUILD STAAR-TECH DEMO\STAAR-TECH DEMO\MicrosoftOpenXRPlugin.dll">
+      <PackagePath>MicrosoftOpenXRPlugin.dll</PackagePath>
+      <Modified>2023-03-11T16:19:18.633</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Enricoandrea\Desktop\GitHub\AR authoring tool\BUILD STAAR-TECH DEMO\STAAR-TECH DEMO\FrozenWorldPlugin.dll">
+      <PackagePath>FrozenWorldPlugin.dll</PackagePath>
+      <Modified>2023-04-25T00:08:14.640</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Enricoandrea\Desktop\GitHub\AR authoring tool\BUILD STAAR-TECH DEMO\build\bin\ARM64\Release\GameAssembly.dll">
+      <PackagePath>GameAssembly.dll</PackagePath>
+      <Modified>2025-07-18T10:40:02.334</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Enricoandrea\Desktop\Unity\2020.3.42f1\Editor\Data\PlaybackEngines\MetroSupport\Players\UAP\il2cpp\ARM64\Release\baselib.dll">
+      <PackagePath>baselib.dll</PackagePath>
+      <Modified>2022-11-10T10:20:54.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Enricoandrea\Desktop\GitHub\AR authoring tool\BUILD STAAR-TECH DEMO\build\bin\ARM64\Release\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2025-07-18T10:40:47.577</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00</Name>
+      <Version>14.0.30704.0</Version>
+      <Architecture>ARM</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00, MinVersion = 14.0.30704.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Retail\ARM\Microsoft.VCLibs.ARM.14.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00</Name>
+      <Version>14.0.30704.0</Version>
+      <Architecture>ARM64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00, MinVersion = 14.0.30704.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Retail\ARM64\Microsoft.VCLibs.ARM64.14.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00</Name>
+      <Version>14.0.30704.0</Version>
+      <Architecture>x64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00, MinVersion = 14.0.30704.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Retail\x64\Microsoft.VCLibs.x64.14.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00</Name>
+      <Version>14.0.30704.0</Version>
+      <Architecture>x86</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00, MinVersion = 14.0.30704.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Retail\x86\Microsoft.VCLibs.x86.14.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+  </ItemGroup>
+</Project>
